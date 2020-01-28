@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SOLIDPrincples.03-LiskovSubstitutionPrinciple", "SOLIDPrincples.LiskovSubstitutionPrinciple\SOLIDPrincples.03-LiskovSubstitutionPrinciple.csproj", "{9017446F-35E1-4E1D-894C-5472989B6B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLIDPrincples.01-SingleResponsibilityPrinciple", "SOLIDPrincples.SingleResponsibilityPrinciple\SOLIDPrincples.01-SingleResponsibilityPrinciple.csproj", "{8A045A42-3EA8-47B8-BE6F-876D1B121ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9017446F-35E1-4E1D-894C-5472989B6B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9017446F-35E1-4E1D-894C-5472989B6B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9017446F-35E1-4E1D-894C-5472989B6B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9017446F-35E1-4E1D-894C-5472989B6B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A045A42-3EA8-47B8-BE6F-876D1B121ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A045A42-3EA8-47B8-BE6F-876D1B121ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A045A42-3EA8-47B8-BE6F-876D1B121ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A045A42-3EA8-47B8-BE6F-876D1B121ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {447B375B-3260-4293-BCB2-3A58500B5CBD}
+	EndGlobalSection
+EndGlobal
